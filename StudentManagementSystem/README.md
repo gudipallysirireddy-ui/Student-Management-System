@@ -94,13 +94,7 @@ dotnet run
 4. Exit
 ```
 
-### Screenshot
 
-```md
-![Main Menu](screenshots/menu.png)
-```
-
----
 
 ## Add Student
 
@@ -112,13 +106,7 @@ Enter Age: 20
 Student Added Successfully
 ```
 
-### Screenshot
 
-```md
-![Add Student](screenshots/addstudent.png)
-```
-
----
 
 ## View Students
 
@@ -127,13 +115,7 @@ Students List:
 ID: 2, Name: Siri, Course: AIML, Age: 20
 ```
 
-### Screenshot
 
-```md
-![View Students](screenshots/viewstudents.png)
-```
-
----
 
 ## Delete Student
 
@@ -142,13 +124,7 @@ Enter Student ID to delete: 2
 Student Deleted Successfully
 ```
 
-### Screenshot
 
-```md
-![Delete Student](screenshots/deletestudent.png)
-```
-
----
 
 # Concepts Used
 
@@ -173,11 +149,7 @@ Student Deleted Successfully
 
 ---
 
-# Resume Project Description
 
-Developed a console-based Student Management System using C# implementing CRUD operations, OOPS concepts, and collection-based data handling.
-
----
 
 # Future Enhancements
 
